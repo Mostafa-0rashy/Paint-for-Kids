@@ -1,0 +1,4 @@
+Blue	Blue	
+2
+Circle	0	369	287	369	287	Blue	NoFill
+Circle	1	308	326	498	350	Blue	NoFill

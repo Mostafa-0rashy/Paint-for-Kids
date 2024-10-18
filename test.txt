@@ -1,0 +1,6 @@
+Blue	Blue	
+4
+Square	0	147	225	Black	NoFill
+Circle	1	487	211	514	228	Blue	NoFill
+Triangle	2	728	208	730	217	673	219	Blue	NoFill
+Rectangle	3	680	388	770	433	Blue	Red	

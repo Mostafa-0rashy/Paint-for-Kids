@@ -1,0 +1,8 @@
+Programming Techniques Project
+
+Team 4_7_T9
+
+1210306 Mostafa Ahmed Elkorashy (Save&Load , Undo ) mostafaorashy5@gmail.com
+1210337 Youssef Saher Anwar (Add figures, Select , Start and Stop recording) youssefsaher026@gmail.com
+1210365 Hassan Ayman(Change colors, Play ,move, Pick by type,Action by type) hassanayman03@gmail.com
+1210230 Zeyad Mostafa Elrayes(Switch to play, Switch to draw, Exit, Pick by color, Delete, Clear All) Zeyadelrayes101@gmail.com
